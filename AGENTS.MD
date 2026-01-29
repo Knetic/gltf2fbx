@@ -1,0 +1,1 @@
+This is a C++ project, but should be written in a way familiar to a Go or Java developer, rather than strictly adhering to C++ conventions.
