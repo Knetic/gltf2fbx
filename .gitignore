@@ -1,0 +1,32 @@
+# Build directories
+build/
+cmake-build-*/
+
+# Compiled binaries
+*.exe
+*.out
+gltf2fbx
+
+# CMake files
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+*.cmake
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Test files
+*.gltf
+*.glb
+*.fbx
+*.bin
+
+# OS files
+.DS_Store
+Thumbs.db
