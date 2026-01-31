@@ -7,12 +7,13 @@ cmake-build-*/
 *.out
 gltf2fbx
 
-# CMake files
+# CMake files (but not vendor cmake modules)
 CMakeCache.txt
 CMakeFiles/
 cmake_install.cmake
 Makefile
-*.cmake
+/*.cmake
+/build/*.cmake
 
 # IDE files
 .vscode/
